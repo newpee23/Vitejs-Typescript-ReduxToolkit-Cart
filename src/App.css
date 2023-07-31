@@ -1,0 +1,175 @@
+.App {
+    width: 80%;
+    height: 100%;
+    margin: 1rem auto;
+    padding: 1rem;
+    z-index: 1;
+  }
+  
+  .head {
+    border-bottom: 1px solid grey;
+  }
+  
+  .nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .nav-list {
+    list-style: none;
+  }
+  
+  .cart-num {
+    padding: 5px;
+    font-size: 14px;
+    border-radius: 50px;
+    background-color: red;
+    color: white;
+  }
+  
+  .products {
+    padding: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .product {
+    width: 20%;
+    border: 1px solid grey;
+    padding: 1rem;
+  }
+  
+  h4 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+  
+  p {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .cart {
+    margin: 0 auto;
+    width: 60%;
+  }
+  
+  .cart-body {
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+  }
+  
+  .form {
+    margin: 0 auto;
+    padding: 10px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  
+  @media (min-width: 1536px){
+  .container {
+      max-width: 100%;
+  }
+  }.App {
+    width: 80%;
+    height: 100%;
+    margin: 1rem auto;
+    padding: 1rem;
+    z-index: 1;
+  }
+  
+  .head {
+    border-bottom: 1px solid grey;
+  }
+  
+  .nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .nav-list {
+    list-style: none;
+  }
+  
+  .cart-num {
+    padding: 5px;
+    font-size: 14px;
+    border-radius: 50px;
+    background-color: red;
+    color: white;
+  }
+  
+  .products {
+    padding: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .product {
+    width: 20%;
+    border: 1px solid grey;
+    padding: 1rem;
+  }
+  
+  h4 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+  
+  p {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .cart {
+    margin: 0 auto;
+    width: 60%;
+  }
+  
+  .cart-body {
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+  }
+  
+  .form {
+    margin: 0 auto;
+    padding: 10px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  
+  @media (min-width: 1536px){
+  .container {
+      max-width: 100%;
+  }
+  }
